@@ -1,0 +1,35 @@
+{
+  "id" : "commons-lang3",
+  "variants" : [ "1ef9775e58f4a394a3a793152a748fc96dabd709815353e88982428b0c47de25", "3389260a291ae48c9dd2ab5e723ef795e8acb3b39a5826825cec1dfd10863ed8", "b320c1e9717d4a43b7d64e7b24d0e47a9b6dc362fc3ab99a47943ce5f99a21f6", "9265d703b0ae22163656376b3db7ebe4d3c84ddfc26660197c94ed20d79ce80e", "b622d535a9303dbf8e7fe462548699a16b3fac902c3c098395cfe09108a80241", "d4149573723978dde53ca8820aaafbe0f236cdcc2d09671bd686f231c231be25", "b85585911e7edbc729242f90ca76cbafcbb348402a4803a328e04e5f804ec88f", "906ed809c3a3fba08a1688d63139925b152215e34460affb355c626bb632046a", "aff5e0c0b8843fad6d1454e329cafc9f31ac0c8351d0e42c10a9194b6b5abf4b", "f80945be4240d2d90010cc9fca6d59108de726b4608cefc07182f900766e53d0", "f47c828060148da5359b7c00d61fc03cc90ba895752b5ef20578e29929da2f1f" ],
+  "configurations" : [ {
+    "id" : "test",
+    "repositories" : [ ]
+  }, {
+    "id" : "provided",
+    "repositories" : [ ]
+  }, {
+    "id" : "system",
+    "repositories" : [ ]
+  }, {
+    "id" : "master",
+    "repositories" : [ ]
+  }, {
+    "id" : "optional",
+    "repositories" : [ ]
+  }, {
+    "id" : "compile",
+    "repositories" : [ ]
+  }, {
+    "id" : "default",
+    "repositories" : [ ]
+  }, {
+    "id" : "sources",
+    "repositories" : [ ]
+  }, {
+    "id" : "javadoc",
+    "repositories" : [ ]
+  }, {
+    "id" : "runtime",
+    "repositories" : [ ]
+  } ]
+}
